@@ -17,4 +17,8 @@ public class AppTest
     {
         assertTrue( true );
     }
+    private void syso() {
+		// TODO Auto-generated method stub
+
+	}
 }
